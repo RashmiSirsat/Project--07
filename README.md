@@ -1,1 +1,1 @@
-# Project--07
+The project name is "Animated Template"
